@@ -1,0 +1,8 @@
+$ docker images
+                                                                                                  i Info →   U  In Use
+IMAGE              ID             DISK USAGE   CONTENT SIZE   EXTRA
+tax-calculator:1   d071feada3a1        250MB         66.3MB        
+
+$ docker ps
+CONTAINER ID   IMAGE              COMMAND                  CREATED         STATUS         PORTS                                     NAMES
+c82d02c9d364   tax-calculator:1   "/docker-entrypoint.…"   9 seconds ago   Up 8 seconds   0.0.0.0:8080->80/tcp, [::]:8080->80/tcp   confident_buck
