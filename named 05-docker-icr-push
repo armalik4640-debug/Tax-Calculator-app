@@ -1,0 +1,16 @@
+$ docker push us.icr.io/calculator-app/tax-calculator:1
+The push refers to repository [us.icr.io/calculator-app/tax-calculator]
+1555002f46c1: Pushed 
+c12f394dea35: Pushed 
+a44b5c8be616: Pushed 
+6310eb16bf42: Pushed 
+c3db7192b8cf: Pushed 
+0fd7dce3b2ce: Pushed 
+956faab5efb3: Pushed 
+02fc02c4ab8d: Pushed 
+b358b1ff9868: Pushed 
+5c2dbd993b51: Pushed 
+07db7bf2649b: Pushed 
+84c5b18ec915: Pushed 
+f340c1b7c1d6: Pushed 
+1: digest: sha256:d071feada3a1073ef1510c93c275aff64eeca1aa81a0dfda7cfc35c3ad19c8e5 size: 856
